@@ -4,7 +4,7 @@ Installation:
 
 composer config repositories.magento2-slider vcs https://github.com/georgeduta/magento2-slider.git
 
-composer require georged/magento2-slider:dev-master
+composer require georged/magento2-slider:1.0.*
 
 Setup:
 
